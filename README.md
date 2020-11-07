@@ -1,5 +1,5 @@
 # Tinder Clone With M.E.R.N STACK ❤️
-### Frontend Code Here
+### Backend Code Here
 ------------------------------------------------------
 
-Go to my backend code at https://github.com/TinderCloneBackend
+Go to my frontend code at https://github.com/TinderCloneFrontend
