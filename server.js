@@ -5,7 +5,7 @@ import cards from './dbCards.js'
 // APP CONFIG
 const app = express();
 const port = process.env.PORT || 8001
-const ConnectionURL = "mongodb+srv://admin:2fUbIniofGnG4jFy@cluster0.o4i11.mongodb.net/tinderdb?retryWrites=true&w=majority"
+const ConnectionURL = "mongodb+srv://admin:<Your password here>@cluster0.o4i11.mongodb.net/tinderdb?retryWrites=true&w=majority"
 
 // DataBase User Password: 2fUbIniofGnG4jFy
 // Connection String: mongodb+srv://admin:<password>@cluster0.o4i11.mongodb.net/<dbname>?retryWrites=true&w=majority
